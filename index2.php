@@ -1,3 +1,3 @@
 <?php
-	echo 'Apache deluje :)';
+	echo 'Apache 2 deluje :)';
 ?>
